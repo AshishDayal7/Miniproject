@@ -16,3 +16,4 @@ When user rate a movie it directly affect movies overall rating.
 <li>=>CSS</li>
 </ul>
 
+Created by : Ashish Ranjan Dayal & Asim Ulla Khan
